@@ -12,7 +12,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PALASH2201&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PALASH2201&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PALASH2201&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PALASH2201&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+# Badges
+[![An image of @palash2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/palash2201)](https://holopin.io/@palash2201)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
