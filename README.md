@@ -16,7 +16,6 @@
 
 # Badges
 [![An image of @palash2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/palash2201)](https://holopin.io/@palash2201)
-[![An image of @palash2201's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/palash2201)](https://holopin.io/@palash2201)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
